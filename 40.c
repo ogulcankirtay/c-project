@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//Mahmut Orkun Seyman 190202025
+
 int i,j,k,x,sonuc;
 int nilpotent(int B[10][10],int boyut){
 sonuc=0;
